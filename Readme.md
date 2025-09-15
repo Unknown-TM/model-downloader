@@ -180,6 +180,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Stability AI](https://stability.ai) for the original Stable Diffusion models
 - Model creators and the open-source community
 
+## Disclaimer
+This script only automates downloading models from Hugging Face.  
+Users are responsible for ensuring compliance with the license terms of any downloaded model.  
+The authors provide no warranty regarding accuracy, reliability, or fitness for a particular purpose.  
+Use at your own risk and verify model integrity before deployment.
+
 ## 📞 Support
 
 If you encounter any issues or have questions:
