@@ -1,4 +1,4 @@
-# Model Downloader
+# LLM Model Downloader
 
 A simple Python script to download and store Stable Diffusion models locally on your machine for offline use.
 

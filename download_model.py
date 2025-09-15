@@ -1,4 +1,4 @@
-# download_LLM
+# LLM Model Downloader
 
 import os
 from diffusers import StableDiffusionPipeline
