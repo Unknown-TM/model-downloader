@@ -23,8 +23,8 @@ This repository contains a utility script that downloads Stable Diffusion models
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Unknown-TM/model-downloader.git
-   cd model-downloader
+   git clone https://github.com/Unknown-TM/LLM-Model-Downloader.git
+   cd LLM-Model-Downloader
    ```
 
 2. **Install dependencies**
